@@ -91,8 +91,8 @@ currently_learning: Scaling systems & product-led growth
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=adityahajari14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&count_private=true" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityahajari14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9&langs_count=8" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=adityahajari14&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9&count_private=true" />
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=adityahajari14&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&text_color=c9d1d9&langs_count=8" />
 
 <br/><br/>
 
@@ -144,19 +144,9 @@ currently_learning: Scaling systems & product-led growth
 
 <div align="center">
 
-[![Code Vantage 2.0](https://github-readme-stats.vercel.app/api/pin/?username=adityahajari14&repo=Code-Vantage-2.0&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9)](https://github.com/adityahajari14/Code-Vantage-2.0)
-[![Code Vantage 1.0](https://github-readme-stats.vercel.app/api/pin/?username=adityahajari14&repo=Code-Vantage-1.0&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9)](https://github.com/adityahajari14/Code-Vantage-1.0)
+[![Code Vantage 2.0](https://github-stats-extended.vercel.app/api/pin/?username=adityahajari14&repo=Code-Vantage-2.0&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9)](https://github.com/adityahajari14/Code-Vantage-2.0)
+[![Code Vantage 1.0](https://github-stats-extended.vercel.app/api/pin/?username=adityahajari14&repo=Code-Vantage-1.0&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00F5D4&icon_color=00F5D4&text_color=c9d1d9)](https://github.com/adityahajari14/Code-Vantage-1.0)
 
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-
-<sub><i>Snake animates automatically once set up via GitHub Actions in this repo — see setup note below.</i></sub>
 </div>
 
 <br/>
