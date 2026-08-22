@@ -113,7 +113,7 @@ currently_learning: Scaling systems & product-led growth
 ## 🏆 Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=adityahajari14&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=adityahajari14&theme=darkhub&no-frame=true&margin-w=8&margin-h=8&row=1&column=6" />
 </div>
 
 <br/>
@@ -160,5 +160,7 @@ currently_learning: Scaling systems & product-led growth
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=100&section=footer" />
 
 <sub>⚡ Powered by curiosity, caffeine, and clean commits.</sub>
+<br/>
+<sub>If any card above shows broken once live: it's usually a cold-start on the free hosting tier — refresh the profile page after a few seconds and it renders.</sub>
 
 </div>
